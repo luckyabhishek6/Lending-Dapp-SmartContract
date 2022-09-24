@@ -4,13 +4,13 @@ Successfully verified contract Loan on Etherscan.
 https://goerli.etherscan.io/address/0xb1489810D596b86Fe5A0410AB935df268c31E2F2#code 
 
 ```
-you can  firsly install hardhat using;
+firsly install hardhat using;
 npm install --save-dev hardhat
  
-you compile your smart contract using
+compile Smart Contract using
 npx hardhat compile
 
-and deploy your smart contract using 
+and deploy  smart contract using 
 npx hardhat run --network <network> scripts/deploy.js
 ```
 
